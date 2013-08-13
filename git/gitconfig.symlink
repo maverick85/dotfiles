@@ -1,8 +1,8 @@
 # Change the [user] section since you are not me :)
 
 [user]
-	name = Filipe Guerra
-	email = alias.mac@gmail.com
+	name = João Morais 
+	email = jcsmorais@gmail.com
 [alias]
 	co = checkout
 	st = status
